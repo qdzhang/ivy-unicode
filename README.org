@@ -1,7 +1,7 @@
-* Helm Unicode
+* Ivy Unicode
 
-  [[https://travis-ci.org/bomgar/helm-unicode][file:https://travis-ci.org/bomgar/helm-unicode.svg?branch=master]]
-  [[http://melpa.org/#/helm-unicode][file:http://melpa.org/packages/helm-unicode-badge.svg]]
 
-  A Helm source for inserting unicode characters by name. Useful to
+  A Ivy source for inserting unicode characters by name. Useful to
   spice up your source code and communications with emoji 😜.
+
+Forked from [[https://github.com/bomgar/helm-unicode][helm-unicode]]
